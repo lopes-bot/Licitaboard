@@ -1,0 +1,37 @@
+[
+    {
+      "diaDaSemana": 1,
+      "totalLicitacoes": 0,
+      "mediaValorOrcadoEstimado": 0
+    },
+    {
+      "diaDaSemana": 2,
+      "totalLicitacoes": 17,
+      "mediaValorOrcadoEstimado": 45830.294117647056
+    },
+    {
+      "diaDaSemana": 3,
+      "totalLicitacoes": 26,
+      "mediaValorOrcadoEstimado": 124231.15115384615
+    },
+    {
+      "diaDaSemana": 4,
+      "totalLicitacoes": 23,
+      "mediaValorOrcadoEstimado": 135633.22782608695
+    },
+    {
+      "diaDaSemana": 5,
+      "totalLicitacoes": 19,
+      "mediaValorOrcadoEstimado": 53527.22789473684
+    },
+    {
+      "diaDaSemana": 6,
+      "totalLicitacoes": 9,
+      "mediaValorOrcadoEstimado": 68744.32111111112
+    },
+    {
+      "diaDaSemana": 7,
+      "totalLicitacoes": 0,
+      "mediaValorOrcadoEstimado": 0
+    }
+]

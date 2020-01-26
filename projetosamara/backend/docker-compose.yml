@@ -1,0 +1,14 @@
+version: "2.1"
+services:
+
+    mongo:
+      image: mongo:4.2-bionic
+      container_name: samara-mongodb
+      working_dir: /application
+      environment:
+        - MONGO_INITDB_DATABASE=samara
+      ports:
+        - '27017:27017'
+      volumes:
+        - ./data/db:/data/db
+
